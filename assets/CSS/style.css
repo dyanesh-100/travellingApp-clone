@@ -151,19 +151,27 @@ header{
 .input-title{
     font-size: 22px;
     font-weight: 500;
+    padding-bottom: 5px;
 }
 .contact-us-input{
-    border-width: 1px;
-    border-color: #9A4F7E;
+    border: 1px solid #9A4F7E;
     width: 700px;
     height: 60px;
 }
 .contact-us-dropdown{
-    border-width: 1px;
-    border-color: #9A4F7E;
+    border: 1px solid #9A4F7E;
     color: #9A4F7E;
     font-size: 18px;
     width: 700px;
     height: 66px;
     padding: 0px 20px;
+}
+.contactUs-submit-button{
+    background-color: #7A1755;
+    color: white;
+    border: none;
+    font-size: 21px;
+    font-weight: 400;
+    padding: 14px 30px;
+    margin-top: 20px;
 }
