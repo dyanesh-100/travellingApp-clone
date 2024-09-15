@@ -109,11 +109,11 @@ header{
     display: flex;
     width: 100%;
     margin-top: 46px;
-    gap:70px;
+    gap:90px;
     flex-wrap: wrap;
 }
 .destination-card{
-    width: 30%;
+    width: 28%;
 }
 .destination-image-description{
     font-size: 40px;
